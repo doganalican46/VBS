@@ -1,0 +1,2 @@
+1905,Galatasaray,Enes Batur,5457145305,10A,50,90,80,30,1,62.5
+99,icardi,galatasaray,5457145305,9C,90,90,90,80,5,87.5
